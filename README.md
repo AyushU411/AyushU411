@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Upadhyay.
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning DS.
-- 💞️ I’m looking to collaborate on Web Development and Data Science Projects.
+- 👀 I’m proficient in C++ and Python Programming.
+- 🌱 I’m currently strengthening my programming skills and improving everyday.
+- 💞️ I’m looking forward to collaborate on all kinds of Software Development as well as Web Development and Data Science Projects.
 - 📫 How to reach me : ayushhupadhyay@gmail.com
 
 <!---
